@@ -3,3 +3,5 @@
 See Slides here:
 
 [Slides.pptx](https://github.com/user-attachments/files/19063355/Slides.pptx)
+
+[Technical Roadmap](Thesis.png)
